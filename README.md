@@ -1,8 +1,11 @@
 ### Hi there 👋
 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=shamimfstack&theme=dark)](https://git.io/streak-stats)
 <!--
 **shamimfstack/shamimfstack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+bootstrap
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
