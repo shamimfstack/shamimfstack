@@ -29,7 +29,7 @@
 
 <h2>My Projects</h2>
 <div>
-  <p><b>3. Project Description: Technology and electronic products shop</b></p>
+  <p><b>1. Project Description: Technology and electronic products shop</b></p>
   <p>Technology used: 
   <li>Tailwind css</li>
   <li>REACT</li>
@@ -41,8 +41,9 @@
   <p>Github_repo_link: <a href="https://github.com/programming-hero-web-course-4/b8a10-brandshop-client-side-shamimfstack">Github Link</a></p>
   <p>Project Link: <a href="https://mod-auth-4.web.app">Technology Park</a></p>
 </div>
+
 <div>
-  <p><b>1. Project Description: Online study related fully responsive web application</b></p>
+  <p><b>2. Project Description: Online study related fully responsive web application</b></p>
   <p>Technology used: 
   <li>Tailwind css</li>
   <li>React</li>
@@ -52,11 +53,12 @@
   <li>MongoDB</li>
   </p>
   <p>Github_repo_link: <a href="https://github.com/Porgramming-Hero-web-course/b8a11-client-side-shamimfstack">Github Link</a></p>
-  <p>Project Link: <a href="https://online-study-4b7f0.web.app/">Online Study</a></p>
+  <p>Project Link: <a href="https://online-study-4b7f0.web.app">Online Study</a></p>
   
 </div>
+
 <div>
-  <p><b>2. Project Description: Online Forum related fully responsive web application.</b></p>
+  <p><b>3. Project Description: Online Forum related fully responsive web application.</b></p>
   <p>Technology used: 
   <li>Tailwind css</li>
   <li>React js</li>
@@ -65,7 +67,7 @@
   <li>MongoDB</li>
   </p>
   <p>Github_repo_link: <a href="https://github.com/programming-hero-web-course-4/b8a10-brandshop-client-side-shamimfstack">Github Link</a></p>
-  <p>Project Link: <a href="https://concept-1-bbffd.web.app/)https://concept-1-bbffd.web.app">Online Forum</a></p>
+  <p>Project Link: <a href="https://concept-1-bbffd.web.app">Online Forum</a></p>
 </div>
 
 
