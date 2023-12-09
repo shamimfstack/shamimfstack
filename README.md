@@ -19,9 +19,36 @@
 
 <h2>My Projects</h2>
 <div>
-  <p>Project Name: <a href="https://shamimfstack.github.io/flower-shop-assignment">Flower Shop</a></p>
-  <p>Project Name: <a href="https://concept-1-bbffd.web.app/)https://concept-1-bbffd.web.app">Online Forum</a></p>
-  <p>Project Name: <a href="https://mod-auth-4.web.app">Technology Park</a></p>
+  <p><b>1. Project Description: Flower shop related fully responsive web site.</b></p>
+  <p>Technology used: 
+  <li>Tailwind css</li>
+  <li>Figma</li>
+  </p>
+  <p>Project Link: <a href="https://shamimfstack.github.io/flower-shop-assignment">Flower Shop</a></p>
+  
+</div>
+<div>
+  <p><b>2. Project Description: Online Forum related fully responsive web application.</b></p>
+  <p>Technology used: 
+  <li>Tailwind css</li>
+  <li>React js</li>
+  <li>Firebase</li>
+  <li>Express js</li>
+  <li>MongoDB</li>
+  </p>
+  <p>Project Link: <a href="https://concept-1-bbffd.web.app/)https://concept-1-bbffd.web.app">Online Forum</a></p>
+</div>
+<div>
+  <p><b>3. Project Description: Technology and electronic products shop</b></p>
+  <p>Technology used: 
+  <li>Tailwind css</li>
+  <li>REACT</li>
+    <li>Firebase</li>
+    <li>Express js</li>
+    <li>MongoDB</li>
+    <li>JSX</li>
+  </p>
+  <p>Project Link: <a href="https://mod-auth-4.web.app">Technology Park</a></p>
 </div>
 
 
