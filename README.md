@@ -13,9 +13,17 @@
 </p>
 
 <h3>My Github Activity Streak</h3>
-<img src="https://streak-stats.demolab.com/?user=shamimfstack&theme=dark"/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=shamimfstack&theme=dark"/>
+</div>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=shamimfstack&show_icons=true&theme=dark"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamimfstack&theme=dark"/>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shamimfstack&theme=dark"/>
+</div>
+
+
 
 <h2>My Projects</h2>
 <div>
