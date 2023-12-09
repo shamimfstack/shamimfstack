@@ -8,7 +8,7 @@
 <h3 align="left">Technologies i Learned:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,figma,js,bootstrap,tailwind,react,firebase,nodejs,express,mongodb" />
   </a>
 </p>
 
@@ -16,8 +16,10 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=shamimfstack&theme=dark"/>
 </div>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=shamimfstack&show_icons=true&theme=dark"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamimfstack&theme=dark"/>
+<div>
+  <img align="left" width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shamimfstack&theme=dark"/>
+  <img align="left" width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shamimfstack&theme=dark" />
+</div>
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shamimfstack&theme=dark"/>
