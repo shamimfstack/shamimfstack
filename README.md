@@ -1,5 +1,6 @@
 
-![Now I am working to be a Front End Developer. After 1 year i want to be a Full Stack Developer.](https://media.licdn.com/dms/image/D5616AQFkBLxmZ2TM3w/profile-displaybackgroundimage-shrink_350_1400/0/1702089662353?e=1707350400&v=beta&t=cuWDay1ecP0CdVSXyflYUw1AvE6Gj4J7V-YWfcAyCvE)
+
+<img src="https://media.licdn.com/dms/image/D5616AQFF3eGHOVA6yw/profile-displaybackgroundimage-shrink_350_1400/0/1702120167465?e=1707955200&v=beta&t=GFI3rrtq9dkIQPPr5XmtgNK1tHpoQAc8pCnI5Uo_YiI"/>
 
 ### Hi there 👋, I am Shamim Ahammad
 #### Now I am working to be a Front End Developer. After 1 year i want to be a Full Stack Developer.
