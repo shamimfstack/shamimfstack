@@ -1,9 +1,9 @@
 
 
-<img src="https://media.licdn.com/dms/image/D5616AQE0C54Vb2c2ew/profile-displaybackgroundimage-shrink_350_1400/0/1703075417287?e=1708560000&v=beta&t=Ht52sKOZkRPtYrOD6G2yf1LXyf-k2TC7HacYuZnmUSw"/>
+<img src="https://media.licdn.com/dms/image/D5616AQGAqT83Ff-V_A/profile-displaybackgroundimage-shrink_350_1400/0/1703077027609?e=1708560000&v=beta&t=Jfts85GtyDADlLCrVtdFuHnQxWzeJb-VCZBZZ2V1I6E"/>
 
 ### Hi there 👋, I am Shamim Ahammad
-#### Now I am working to be a Front End Developer. After 1 year i want to be a Full Stack Developer.
+#### Now I am working to be a Front End Developer. After 2 years I want to be a MERN Stack Developer.
 <hr>
 
 <h3 align="left">Technologies i Learned:</h3>
